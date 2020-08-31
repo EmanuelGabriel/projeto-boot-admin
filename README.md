@@ -65,4 +65,5 @@ arquivo pom.xml
 ![Captura de tela de 2020-08-31 11-54-19](https://user-images.githubusercontent.com/16214525/91734346-38888100-eb81-11ea-96f0-5e1918b83974.png)
 
 ## Mappings (mapeamentos)
+![Captura de tela de 2020-08-31 11-54-36](https://user-images.githubusercontent.com/16214525/91734718-a634ad00-eb81-11ea-9541-84cf2ca0639b.png)
 
