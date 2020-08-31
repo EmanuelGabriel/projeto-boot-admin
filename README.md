@@ -61,3 +61,5 @@ arquivo pom.xml
 ## Métricas
 ![Captura de tela de 2020-08-31 11-54-10](https://user-images.githubusercontent.com/16214525/91734186-fbbc8a00-eb80-11ea-92b3-e0d57d45800e.png)
 
+## LogFile
+![Captura de tela de 2020-08-31 11-54-19](https://user-images.githubusercontent.com/16214525/91734346-38888100-eb81-11ea-96f0-5e1918b83974.png)
