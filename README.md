@@ -63,3 +63,6 @@ arquivo pom.xml
 
 ## LogFile
 ![Captura de tela de 2020-08-31 11-54-19](https://user-images.githubusercontent.com/16214525/91734346-38888100-eb81-11ea-96f0-5e1918b83974.png)
+
+## Mappings (mapeamentos)
+
