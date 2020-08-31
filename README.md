@@ -49,6 +49,7 @@ arquivo pom.xml
 
 
 # Imagens da aplicação
+## Dashboard
 ![Captura de tela de 2020-08-31 10-34-17](https://user-images.githubusercontent.com/16214525/91727425-13dbdb80-eb78-11ea-9856-f972ab335faf.png)
 
 ![Captura de tela de 2020-08-31 10-34-24](https://user-images.githubusercontent.com/16214525/91727706-70d79180-eb78-11ea-8796-95ef5c96d73b.png)
@@ -57,4 +58,6 @@ arquivo pom.xml
 
 ![Captura de tela de 2020-08-31 10-34-38](https://user-images.githubusercontent.com/16214525/91727872-ab412e80-eb78-11ea-8aad-a0928bffe931.png)
 
+## Métricas
+![Captura de tela de 2020-08-31 11-54-10](https://user-images.githubusercontent.com/16214525/91734186-fbbc8a00-eb80-11ea-92b3-e0d57d45800e.png)
 
