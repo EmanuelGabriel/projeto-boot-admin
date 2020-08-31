@@ -1,6 +1,9 @@
 # projeto-boot-admin
 Monitoramento de API com Actuator
 
+# Spring Boot Admin
+O __Spring Boot Admin__ é um aplicativo Web, usado para gerenciar e monitorar aplicativos Spring Boot. Cada aplicativo é considerado como um cliente e se registra no servidor de administração do Spring Boot Admin. Nos bastidores, a mágica é feita pelos endpoints do __Spring Boot Actuator__.
+
 # Projeto Boot Admin - Monitoramento de REST API
 Projeto que usa o Spring Boot Admin para monitoramento de API usando o Actuator
 
@@ -14,6 +17,18 @@ Para este projeto, vamos monitorar uma REST API "projeto-boot-admin-cliente" cri
 
 # Configurando o Actuator em nossa aplicação REST API "projeto-boot-admin-cliente" 
 Para adicionarmos o actuator em nosso projeto precismos adicionar a dependencia spring-boot-starter-actuator no nosso maven.
+
+Abra seu arquivo __pom.xml__ e adicione essa dependência:
+
+```
+arquivo pom.xml
+
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-actuator</artifactId>
+</dependency>
+
+```
 
 
 # Detalhes do projeto
