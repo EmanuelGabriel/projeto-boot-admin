@@ -9,7 +9,7 @@ Projeto que usa o Spring Boot Admin para monitoramento de API usando o Actuator
 A principio o __Actuator__ traz alguns recursos prontos para serem usados em produção para nossa aplicação. Monitorar nossa aplicação, coletar métricas, entender o tráfego ou o estado do nosso banco de dados se torna facil trivial com essa dependência. O principal benefício desta biblioteca é que podemos obter ferramentas de monitoramento de nível de produção sem precisar implementar esses recursos pois eles ja vem prontos com o Spring Boot.
 
 # Monitorando a API 
-Para este projeto, vamos monitorar uma REST API "projeto-boot-admin-cliente" que está no repositório [Projeto Boot Admin Cliente](https://pages.github.com/). 
+Para este projeto, vamos monitorar uma REST API "projeto-boot-admin-cliente" criada no repositório GitHub [Projeto Boot Admin Cliente](https://github.com/EmanuelGabriel/projeto-boot-admin-cliente). 
 
 
 # Configurando o Actuator em nossa aplicação REST API "projeto-boot-admin-cliente" 
